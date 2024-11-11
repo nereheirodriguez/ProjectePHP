@@ -1,0 +1,7 @@
+CREATE TABLE futbolistes (
+                             nom_futbolista VARCHAR(50),     
+                             equip VARCHAR(50),              
+                             any INT,                        
+                             dorsal TINYINT,                
+                             nacionalitat VARCHAR(30)        
+);
